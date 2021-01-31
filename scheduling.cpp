@@ -1,9 +1,3 @@
-/* Noel Ruiz, Submission two
-    Id: 1793629  
-    intending to use grace days to finish up
-
-    late submission, turned in Feb 24 at 5:40pm*/
-
 
 #include <iostream>
 #include <fstream>
